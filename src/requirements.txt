@@ -1,0 +1,6 @@
+PyICU
+numpy
+six
+pycld2
+morfessor
+polyglot
